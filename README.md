@@ -411,25 +411,3 @@ Response
   ↓
 Client
 ```
-
-## 18. Next Topics to Learn
-
-After installation and configuration, learn in this order:
-
-1. Routes
-2. Path Parameters
-3. Query Parameters
-4. Request Body
-5. Pydantic Models
-6. Response Models
-7. HTTP Status Codes
-8. Error Handling
-9. Dependency Injection
-10. Async vs Sync
-11. Database Integration
-12. Authentication / JWT
-13. Project Structure
-14. Middleware
-15. Testing
-16. Docker Deployment
-17. Production Deployment
